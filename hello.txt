@@ -1,1 +1,2 @@
 Hell Git
+Git is interesting.
