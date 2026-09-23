@@ -1,1 +1,2 @@
 Git Restore Practices
+Stage 3 change
