@@ -1,2 +1,2 @@
 Git Merge Practice
-message = original
+message = main
